@@ -35,5 +35,4 @@ This repo is meant for:
 
 ---
 
-## 📂 Folder Structure
 
